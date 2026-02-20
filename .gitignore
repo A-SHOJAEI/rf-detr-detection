@@ -1,0 +1,35 @@
+# Data
+/data/
+/output/
+
+# Model weights
+*.pth
+*.pt
+*.onnx
+
+# Prediction files (large)
+*_predictions.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environment
+.env
+*.log
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,7 @@
+rfdetr>=1.4.3
+supervision>=0.27.0
+pycocotools>=2.0.11
+matplotlib>=3.10
+numpy>=2.0
+Pillow>=12.0
+tqdm>=4.67
